@@ -1,4 +1,4 @@
-### **Treatment OF missing values**
+### **Treatment of missing values**
 
 Dans une analyse predictive de données, l'une des tâches que nous deverios effectuer avant la formatin de notre modèle d'apprentissage automatique est le preprocessing des données. Le nettoyage des données est un élément clé de la tâche de preprocessing des données et implique généralement la suppression des valeurs manquantes ou leur remplacement par la moyenne, la mediane, la mode ou une constante.
 
